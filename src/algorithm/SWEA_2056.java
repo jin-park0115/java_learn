@@ -15,7 +15,7 @@ public class SWEA_2056 {
 			String year = str.substring(0, 4);
 			String month = str.substring(4,6);
 			String day = str.substring(6,8);
-			
+			System.out.print(month);
 			int m = Integer.parseInt(month);
 			int d = Integer.parseInt(day);
 			
