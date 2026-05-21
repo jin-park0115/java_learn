@@ -9,7 +9,6 @@ public class SWEA_1545 {
 		int n = sc.nextInt();
 		
 		for(int i = 0; i <= n; i++) {
-			// n = 7
 			System.out.print(n - i + " ");
 		}
 
